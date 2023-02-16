@@ -1,0 +1,31 @@
+genAppKey				f255b7748a00ff7c22344c3402f6356f
+
+GENERATED KEYS --------------------------------------------------------
+
+McAddr (big endian, to set in NS side)			3d61ffd2
+
+McAddr (little endian, to set in command)		d2ff613d
+
+McKey_encrypted			8e1462561945dee2168b52e128ef7f28
+
+DERIVED KEYS ----------------------------------------------------------
+
+McRootKey				bc85c3908cdf1a66997008ad9920b1cd
+
+McKEKey					d4a977d0e20d09cc0a5d83711e231dc4
+
+DECRYPTED KEYS --------------------------------------------------------
+
+McKey					4d62c5c42d9d6561de895efd46e61a2a
+
+MULTICAST SESSION KEYS ------------------------------------------------
+
+McAppsKey				1443135eb5d387358396e05615979eda
+
+McNetsKey				95a8a5c341bcda98bdafa0230cd8821e
+
+McAddr ( = DevAddr of the multicast group)		3d61ffd2
+
+MCGROUPSETUPREQ -------------------------------------------------------
+
+Command 0203d2ff613d8e1462561945dee2168b52e128ef7f2800000000ffffffff
